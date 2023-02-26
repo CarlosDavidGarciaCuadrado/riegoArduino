@@ -1,6 +1,7 @@
 
 
-//------------------------------Librerías------------------------------------//
+//-----------------------------------------Librerias-------------------------------------------//
+
 #include <ESP8266wifi.h>
 #include <strings_en.h>
 #include <WiFiManager.h>
@@ -10,7 +11,8 @@
 //#include <ESP_WiFiManager.hpp>
 //#include <ESP8266wifi.h>
 
-//----------------------Clase para la conexión a Internet--------------------//
+//-----------------------------Clase para la conexión a Internet-------------------------------//
+
   class ConexionEthernet{
 
   public: 
